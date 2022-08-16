@@ -1,0 +1,11 @@
+Đề bài: Quản lý nhân viên bán hàng(bán hàng gì tuỳ mọi người)
+- gồm có các chức năng cơ bản như thêm, sửa, xoá nhân viên
+- tính thời gian nhân viên đó đã làm việc ở cửa hàng bao lâu (tính từ ngày đầu tiên bắt đầu làm việc)
+- sắp xếp tăng dần theo tuổi của nhân viên
+- Hãy xếp loại nhân viên theo các mốc sau:
+         Nếu đi làm >= 100 ngày xếp loại trung bình
+         Nếu đi làm >= 200 ngày xếp loại khá
+         Nếu đi làm >= 300 ngày xếp loại giỏi
+         Nếu đi làm > 500 ngày xếp loại xuất sắc
+- sử dụng menu để quản lý các chức năng trong bài 
+- khuyến khích mn ai biết sử dụng tệp thì dùng tệp nữa nhé

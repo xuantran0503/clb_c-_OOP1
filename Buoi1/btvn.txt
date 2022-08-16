@@ -1,0 +1,12 @@
+Bài tập về nhà:
+Bài 1:
+a) Nhập xuất 1 mảng có n số nguyên 
+b) Tính tổng trung bình cộng các số âm chẵn trong mảng
+c) Đếm xem trong mảng có bao nhiêu số âm và bao nhiêu số dương
+d) sắp xếp tăng dần số lẻ và giảm dần số chẵn
+Bài 2: viết chương trình quản lý điểm của sinh viên UNETI năm nhất (đề bài mở)
+a) tính TBC tích luỹ hệ 4
+b) tính TBC tích luỹ hệ 10
+c) in ra thông tin trên và cho biết sinh viên đó đạt loại gì
+
+Lưu ý: tất cả dùng hàm để làm
