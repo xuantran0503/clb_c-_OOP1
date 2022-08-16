@@ -54,7 +54,7 @@ void inds(Hanghoa	 hh[],int i ,int n) {
 
 void Tinh_thanhtien(Hanghoa	 a[],  int n) 
 {
-	for (int i = 1; i < n; i++)
+	for (int i = 0; i < n; i++)
 	{
 		a[i].thanh_tien = a[i].don_gia * a[i].so_luong;
 	}
