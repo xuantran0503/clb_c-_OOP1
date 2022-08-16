@@ -347,9 +347,7 @@ void save_file(nhanvien nv[],int n)
 			output<<"|\n";
         }
 	        output<<"+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+\n";
-        	cout<<"\n\t\t\t\t\t  LUU TEP THANH CONG ";
-        	/*
-cout<<"\n\t\t\t\t* MO TEP 'nv.out' DE XEM DANH SACH NHAN VIEN * \n\n";*/	
+        	cout<<"\n\t\t\t\t\t  LUU TEP THANH CONG ";	
   	}
 	output.close();
 }
@@ -359,19 +357,11 @@ void time()
 	time_t now = time('\0');
 	tm *t = localtime(&now);
 	char *ch = asctime(t); 
-	/*
-cout<<"\n\t\t+------------------------------< TIME >-------------------------------+";*/
 	cout<<"\n\t\t|\t\t  HOM NAY LA NGAY "<< t->tm_mday <<" THANG "<<t->tm_mon+1 <<" NAM "<<t->tm_year+1900<<"                 |";
-	/*
-cout<<"\n\t\t+---------------------------------------------------------------------+";*/
 	cout<<"\n\n";
 }
 void menu()
 {
-
-	/*
-cout<<"\n\t\t+------------------------------< MENU >-------------------------------+";
-	cout<<"\n\t\t|           * HAY LUA CHON CONG VIEC BAN MUON THUC HIEN *             |";*/
 	cout<<"\n\t\t+---------------------------------------------------------------------+";
 	cout<<"\n\t\t|        1.Nhap danh sach nhan vien tu ban phim                       |";
 	cout<<"\n\t\t|        2.In danh sach thong tin nhan vien duoi dang bang            |";
